@@ -30,7 +30,7 @@
 которые автоматически заворачивают текст в параграфы.
 
 #### Примеры
-https://lenta.ru/news/2016/07/01/vapersong/
+https://lenta.ru/news/2016/07/01/vapersong/ <br>
 https://www.gazeta.ru/business/2021/08/11/13856210.shtml <br>
 Можно просмотреть в соответствующих папках в репо
 
